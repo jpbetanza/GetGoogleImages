@@ -17,5 +17,13 @@ GetGoogleImages is a software developed to fetch any number of photos automatica
 
 ## Known Issues
 
-The software is only able to download images with a source URL that starts with data:image/jpeg
-There is no current way to change the images folder location
+- The software is only able to download images with a source URL that starts with data:image/jpeg
+- There is no current way to change the images folder location
+
+## Built with
+
+* [Python](https://www.python.org/)
+
+## Autor
+
+**João Pedro Betanza** - [jpbetanza](https://github.com/jpbetanza)
