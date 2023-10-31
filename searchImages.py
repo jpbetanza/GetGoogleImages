@@ -14,7 +14,7 @@ from pathlib import Path
 def main(search, amount):
     amount = int(amount)*2 #to deal with lil image searching optimization problems
     # Set up the download folder
-    download_folder = Path.home() / "OneDrive" / "Imagens" / "GetImages" / search.replace(' ', '_')
+    download_folder = "GetImages/"+search.replace(' ', '_')
 
     if not os.path.exists(download_folder):
         os.makedirs(download_folder)
