@@ -8,10 +8,14 @@ GetGoogleImages is a software developed to fetch any number of photos automatica
 
 ![Demo](demo.gif)
 
-## Downloads
+## How to use
 
-[Version 1.0](https://github.com/jpbetanza/GetGoogleImages/blob/main/dist/GetGoogleImages.exe)
+- Make sure you have Python in the latest version installed in your device
+- Clone or download the repository
+- Run the file RunProgram.bat (it will install all necessary dependencies and run the program)
+- Download your images!
 
 ## Known Issues
 
 The software is only able to download images with a source URL that starts with data:image/jpeg
+There is no current way to change the images folder location
